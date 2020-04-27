@@ -11,7 +11,7 @@
 目录结构系flutter项目标准结构，  
 这里主要说明主要lib目录：  
 
-https://github.com/jasonlxs/flu_source/blob/master/1.png?raw=true
+![lib目录](https://github.com/jasonlxs/flu_source/blob/master/1.png?raw=true)
 
 
 
